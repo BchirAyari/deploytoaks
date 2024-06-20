@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: capgemini-app
-          image: dynatrace/easytravel-angular-frontend 
+          image: ayaribechir/devopspfe:latest 
           ports:
             - containerPort: 80
   strategy:
